@@ -1,2 +1,2 @@
-# vtttosrt
+# VTTToSRT
 Converting vtt to srt.
